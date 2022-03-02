@@ -10,4 +10,4 @@ public class MultiplyTwoNumbers {
         System.out.println("The product isssssssssss: " + product);
     }
 }
-Outputi
+
